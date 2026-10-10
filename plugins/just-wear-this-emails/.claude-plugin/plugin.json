@@ -1,0 +1,15 @@
+{
+  "name": "just-wear-this-emails",
+  "version": "1.0.0",
+  "description": "Just Wear This Client Emails: five outfit emails and texts (questionnaire, plan ready, one week to go, still looking, thank you) rewritten in your own voice and filled in for each family. Works with Just Wear This.",
+  "author": {
+    "name": "Just Wear This",
+    "url": "https://justwearthis.co"
+  },
+  "homepage": "https://justwearthis.co",
+  "keywords": [
+    "photography",
+    "client emails",
+    "family photos"
+  ]
+}

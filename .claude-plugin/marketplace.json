@@ -11,8 +11,14 @@
     {
       "name": "just-wear-this",
       "source": "./plugins/just-wear-this",
-      "description": "Just Wear This: done-for-you family photo outfit plans. Paste a client questionnaire and get a coordinated outfit plan your client opens on her phone, with every piece to shop, built from a curated flat-lay library.",
-      "version": "1.8.5"
+      "description": "Just Wear This: done-for-you family photo outfit plans. Paste a client questionnaire and get a coordinated outfit plan your client opens on their phone, with every piece to shop, built from a curated flat-lay library.",
+      "version": "1.8.6"
+    },
+    {
+      "name": "just-wear-this-emails",
+      "source": "./plugins/just-wear-this-emails",
+      "description": "Just Wear This Client Emails: five outfit emails and texts (questionnaire, plan ready, one week to go, still looking, thank you) rewritten in your own voice and filled in for each family. Works with Just Wear This.",
+      "version": "1.0.0"
     }
   ]
 }
