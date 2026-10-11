@@ -319,8 +319,9 @@ a.rreach{text-decoration:underline;text-decoration-color:var(--line);text-underl
 .sheet{background:var(--paper);width:100%;max-width:560px;padding:14px 22px calc(22px + env(safe-area-inset-bottom,0px));max-height:92%;overflow:auto;display:flex;flex-direction:column;gap:16px}
 @media (min-width:700px){.scrim{align-items:center}}
 .grab{width:42px;height:3px;background:var(--line);align-self:center}
-.sheet .big{background:#fff;display:grid;place-items:center;height:min(44vh,360px)}
-.sheet .big img{max-height:92%;max-width:92%;object-fit:contain}
+.sheet>*{flex-shrink:0}
+.sheet .big{background:#fff;display:grid;place-items:center;height:min(44vh,360px);overflow:hidden}
+.sheet .big img{max-height:calc(min(44vh,360px) * .92);max-width:92%;object-fit:contain}
 .sheet h4{font-size:20px;font-weight:500;margin:0;line-height:1.25}
 .for{font-size:11px;font-weight:300;letter-spacing:.2em;text-transform:uppercase;color:var(--soft)}
 .snote{font-family:var(--serif);font-style:italic;font-size:18px;color:var(--soft);margin:2px 0 0}
@@ -331,6 +332,7 @@ a.rreach{text-decoration:underline;text-decoration-color:var(--line);text-underl
 .btn.lead{background:var(--ink);color:#fff;padding-inline:14px;border-bottom-color:var(--ink)}
 .btn.lead small{color:#d6d6d6}
 .nolink{font-size:13px;color:var(--soft)}
+.similar{font-weight:300;text-transform:uppercase;letter-spacing:.16em;font-size:11px;color:var(--soft);margin-bottom:-6px}
 .seg{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--ink)}
 .seg button{font:300 11px var(--sans);letter-spacing:.16em;text-transform:uppercase;border:0;padding:13px 4px;background:transparent;color:var(--ink);cursor:pointer;min-height:44px}
 .seg button+button{border-left:1px solid var(--ink)}
@@ -443,9 +445,9 @@ function openSheet(id) {
   const it = byId[id], st = stat(id);
   const lead = it.links.length ? it.links[Math.min(1, it.links.length - 1)].tier : "";
   const shop = it.owned ? `<span class="owned">You already have this one.</span>` :
-    (it.links.length ? `<div class="shop">${it.links.map(l => `<a class="btn ${l.tier === lead ? "lead" : ""}" href="${l.url}" target="_blank" rel="noopener">
+    (it.links.length ? `<span class="similar">${it.links.length > 1 ? `Similar picks at ${it.links.length} prices` : "A similar pick"}</span><div class="shop">${it.links.map(l => `<a class="btn ${l.tier === lead ? "lead" : ""}" href="${l.url}" target="_blank" rel="noopener">
         <span>${l.tier}</span><small>${esc(l.store)} &rarr;</small></a>`).join("")}</div>
-      <span class="nolink">${it.links.length < 3 ? "Fewer than three options means we didn't find a great match at every price." : "Mix and match: splurge on the favorite, save on the rest."}</span>` : "");
+      <span class="nolink">${it.links.length < 3 ? "Close matches look just as good: the colors and the mix matter more than the exact piece. We only list a pick when it's a close match, so some pieces have fewer options." : "Close matches look just as good: the colors and the mix matter more than the exact piece. Splurge on the favorite, save on the rest."}</span>` : "");
   document.getElementById("sheet").innerHTML = `
     <span class="grab"></span>
     <div class="big"><img src="${IMG[id]}" alt="${esc(it.name)}"></div>
