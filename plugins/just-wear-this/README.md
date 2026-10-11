@@ -1,4 +1,4 @@
-# Just Wear This (v1.8.6)
+# Just Wear This (v1.8.7)
 
 Done-for-you family photo outfit plans, inside Claude.
 
@@ -11,10 +11,10 @@ the family's colors and a week-before checklist. Share it with your client as a 
 
 ## Install
 
-In the Claude app: Customize → Plugins → Add marketplace → `ebroadbent712/JWT`, then install **Just Wear This**.
+In the Claude app: Customize → Plugins → Add marketplace → `ps-tools-store/dhxp-9pkw`, then install **Just Wear This**.
 
 In Claude Code:
 
-    /plugin install just-wear-this --marketplace ebroadbent712/JWT
+    /plugin install just-wear-this --marketplace ps-tools-store/dhxp-9pkw
 
 Help: https://justwearthis.co

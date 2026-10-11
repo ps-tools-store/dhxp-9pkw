@@ -18,11 +18,11 @@ Nothing is ever sent for you. Copy and paste into your inbox, CRM or phone.
 
 ## Install
 
-In the Claude app: Customize → Plugins → Add marketplace → `ebroadbent712/JWT`, then install
+In the Claude app: Customize → Plugins → Add marketplace → `ps-tools-store/dhxp-9pkw`, then install
 **Just Wear This Client Emails**.
 
 In Claude Code:
 
-    /plugin install just-wear-this-emails --marketplace ebroadbent712/JWT
+    /plugin install just-wear-this-emails --marketplace ps-tools-store/dhxp-9pkw
 
 Help: https://justwearthis.co
