@@ -1,5 +1,5 @@
 {
- "library_version": "1.9.0",
+ "library_version": "1.9.1",
  "color_stories": {
   "cabernet-navy": {
    "name": "Cabernet and Navy",
@@ -8027,6 +8027,241 @@
    "description": "Champagne ballet flats. A pair of classic rounded-toe ballet flats in soft gold metallic leather with a low-cut topline and thin flat sole.",
    "shop_links": {
     "splurge": "https://www.jcrew.com/p/womens/categories/shoes/ballets/andi-ballet-flats-in-metallic-leather/CH266"
+   }
+  },
+  {
+   "id": "W-BTM-012",
+   "file": "w_btm_012.jpg",
+   "name": "Red tartan A-line skirt",
+   "person": "women",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan A-line skirt. Bright red wool-blend tartan A-line skirt with a back zip, falling just above the knee.",
+   "shop_links": {
+    "mid": "https://factory.jcrew.com/p/womens/categories/clothing/skirts/mini-and-knee-length-skirts/tartan-a-line-skirt/BV140"
+   }
+  },
+  {
+   "id": "M-TOP-021",
+   "file": "m_top_021.jpg",
+   "name": "Red tartan flannel shirt",
+   "person": "men",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan flannel shirt. Long-sleeve button-front shirt in 100% cotton flannel woven in a softly faded red Royal Stewart tartan.",
+   "shop_links": {
+    "mid": "https://www.llbean.com/llb/shop/42272?page=scotch-plaid-flannel-shirt-traditional-fit"
+   },
+   "also_for": [
+    "teen boys"
+   ]
+  },
+  {
+   "id": "G-DRS-016",
+   "file": "g_drs_016.jpg",
+   "name": "Red tartan dress with white collar",
+   "person": "girls",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan dress with white collar. A long-sleeve stretch cotton-jersey dress in a traditional red, green and ivory tartan with a Peter Pan collar edged in red scalloped trim, softly pleated skirt and back button closure.",
+   "shop_links": {
+    "mid": "https://hopeandhenry.com/products/21hl2005a-red-holiday-tartan-ruffle-collar-dress"
+   },
+   "statement": true
+  },
+  {
+   "id": "B-TOP-012",
+   "file": "b_top_012.jpg",
+   "name": "Red tartan flannel shirt",
+   "person": "boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan flannel shirt. A relaxed button-front long-sleeve shirt in soft brushed cotton flannel printed with a red Royal Stewart tartan of navy, green, yellow and white lines, with a point collar and patch pocket.",
+   "shop_links": {
+    "mid": "https://www.llbean.com/llb/shop/129819?page=kids-scotch-plaid-flannel-shirt-kids"
+   }
+  },
+  {
+   "id": "T-DRS-013",
+   "file": "t_drs_013.jpg",
+   "name": "Red tartan toddler dress",
+   "person": "toddlers",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan toddler dress. A fully lined red tartan twill party dress with short puffed sleeves tied with little bows at the shoulders and a full, gathered skirt.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/girls-the-tartan-dress-101641001.html?lang=en_GB"
+   }
+  },
+  {
+   "id": "BB-DRS-019",
+   "file": "bb_drs_019.jpg",
+   "name": "Red tartan baby dress",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Red tartan baby dress. A baby holiday dress in Janie and Jack's red-dominant Bradbury tartan (described from the listing title; page could not be opened to confirm construction).",
+   "shop_links": {
+    "mid": "https://factory.jcrew.com/p/toddlers/categories/clothing/girls/dresses/baby-amp-toddler-girls-tartan-bow-front-dress/CF530",
+    "splurge": "https://www.rachelriley.com/products/baby-blackwatch-bow-dress-copy"
+   }
+  },
+  {
+   "id": "TG-BTM-009",
+   "file": "tg_btm_009.jpg",
+   "name": "Red tartan skirt",
+   "person": "teen girls",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan skirt. A high-waisted above-the-knee A-line skirt in a bright red wool-blend tartan with a back zip.",
+   "shop_links": {
+    "mid": "https://factory.jcrew.com/p/womens/categories/clothing/skirts/mini-and-knee-length-skirts/tartan-a-line-skirt/BV140"
+   }
+  },
+  {
+   "id": "TB-TOP-015",
+   "file": "tb_top_015.jpg",
+   "name": "Red tartan flannel shirt",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan flannel shirt. A long-sleeve brushed cotton flannel button-front shirt in a traditional tartan plaid, with a point collar, chest pocket and buttoned cuffs.",
+   "shop_links": {
+    "mid": "https://global.llbean.com/llb/shop/1000144391.html?pla1=0"
+   }
+  },
+  {
+   "id": "G-ACC-004",
+   "file": "g_acc_004.jpg",
+   "name": "Red tartan hair bow",
+   "person": "girls",
+   "category": "accessory",
+   "layout_role": "accent",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan hair bow. A girls' headband topped with a bow in a red-dominant plaid (described from the listing title; page could not be opened to confirm details).",
+   "shop_links": {
+    "mid": "https://factory.jcrew.com/p/girls/categories/accessories/hair/girls-stewart-tartan-bow-hair-clip/BU960"
+   }
+  },
+  {
+   "id": "B-ACC-002",
+   "file": "b_acc_002.jpg",
+   "name": "Red tartan bow tie",
+   "person": "boys",
+   "category": "accessory",
+   "layout_role": "accent",
+   "hex": "#A3242B",
+   "pattern": false,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan bow tie. A boys' pre-tied bow tie in a red-dominant tartan plaid crossed with thin dark green, navy and yellow lines, on an adjustable neck strap.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/boys-tartan-bowtie-100047344.html?lang=en_GB"
    }
   }
  ]
