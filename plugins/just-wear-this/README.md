@@ -1,4 +1,4 @@
-# Just Wear This (v1.9.1)
+# Just Wear This (v1.9.2)
 
 Done-for-you family photo outfit plans, inside Claude.
 
