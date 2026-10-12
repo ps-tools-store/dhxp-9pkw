@@ -38,12 +38,16 @@ These rules are the product. Follow them on every board. When two rules conflict
 | Coastal | Summer | Beach, lake, dunes, golden hour | Dusty navy or terracotta |
 | Harvest | Early and mid fall | Golden fields, orchards, pumpkin patches | Rust or chocolate |
 | Evergreen | Winter, holiday | Snow, tree farms, studio holiday | Forest |
+| Rose and Olive | Spring, fall | Gardens, wildflower fields, greenhouses | Dusty or berry rose |
+| Winter White | Winter, holiday | Snow, studio holiday, Christmas cards, light and airy edits | Ivory or champagne |
+| Holiday Plaid | Holiday | Christmas cards, tree farms, cozy indoor holiday | Red tartan |
 
 Palettes live in `library/catalog.json`. Choosing a story:
 
 - Season and setting decide first; then the light. Warm golden hour favors Harvest and Coastal; cool or overcast favors Cabernet and Navy and Evergreen.
 - A color the client loves pulls toward the story that contains it. Colors they want to avoid are never used.
 - If the photos will hang at home and they sent a room photo, weigh the room's colors over the setting.
+- Holiday and Christmas-card sessions: Holiday Plaid when they want classic and festive, Winter White when they want soft, bright or snowy. In Holiday Plaid, red tartan goes on one or two people at most (plus a tartan bow or bow tie if they like); everyone else wears the solids around it (forest, navy, cream, camel, deep red velvet). Winter White needs one warmer or deeper piece (camel, champagne, soft gray or a tartan accent) so the family doesn't wash out.
 - Only use stories marked `"stocked": true` in the catalog. If the right story isn't stocked yet, use the closest stocked one and tell the photographer.
 
 ## Rules by person

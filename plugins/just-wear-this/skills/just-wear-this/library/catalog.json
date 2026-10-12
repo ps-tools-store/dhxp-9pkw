@@ -1,5 +1,5 @@
 {
- "library_version": "1.8.8",
+ "library_version": "1.9.0",
  "color_stories": {
   "cabernet-navy": {
    "name": "Cabernet and Navy",
@@ -226,6 +226,101 @@
     }
    ],
    "summary": "Berry and dusty rose with fresh olive and soft greige, a touch of plum for depth and blush for the little ones. Romantic in spring, rich in fall."
+  },
+  "winter-white": {
+   "name": "Winter White",
+   "season": [
+    "winter",
+    "holiday"
+   ],
+   "settings": [
+    "snow",
+    "studio holiday",
+    "christmas card",
+    "light and airy",
+    "indoor holiday"
+   ],
+   "stocked": true,
+   "palette": [
+    {
+     "name": "Ivory",
+     "hex": "#EDE4D3"
+    },
+    {
+     "name": "Oatmeal",
+     "hex": "#D8CBB4"
+    },
+    {
+     "name": "Camel",
+     "hex": "#B08A5E"
+    },
+    {
+     "name": "Champagne",
+     "hex": "#D9C4A3"
+    },
+    {
+     "name": "Soft gray",
+     "hex": "#B5B5B2"
+    }
+   ],
+   "accents": [
+    {
+     "name": "Deep red",
+     "hex": "#8E1C27"
+    },
+    {
+     "name": "Navy",
+     "hex": "#26324F"
+    }
+   ],
+   "summary": "Ivory, oatmeal and soft gray with camel and champagne for warmth. Bright, cozy and snowy, made for Christmas cards and light, airy edits."
+  },
+  "holiday-plaid": {
+   "name": "Holiday Plaid",
+   "season": [
+    "holiday",
+    "winter"
+   ],
+   "settings": [
+    "christmas card",
+    "tree farm",
+    "cozy indoor holiday",
+    "studio holiday"
+   ],
+   "stocked": true,
+   "palette": [
+    {
+     "name": "Red tartan",
+     "hex": "#A3242B"
+    },
+    {
+     "name": "Forest",
+     "hex": "#2E4632"
+    },
+    {
+     "name": "Deep navy",
+     "hex": "#26324F"
+    },
+    {
+     "name": "Cream",
+     "hex": "#EDE4D3"
+    },
+    {
+     "name": "Camel",
+     "hex": "#B08A5E"
+    }
+   ],
+   "accents": [
+    {
+     "name": "Deep red",
+     "hex": "#8E1C27"
+    },
+    {
+     "name": "Burgundy",
+     "hex": "#5E1F2B"
+    }
+   ],
+   "summary": "One red tartan anchor with forest, navy, cream and camel solids around it. Classic, festive and made for Christmas photos."
   }
  },
  "smart_links": {
@@ -282,7 +377,9 @@
    ],
    "color_stories": [
     "cabernet-navy",
-    "harvest"
+    "harvest",
+    "winter-white",
+    "holiday-plaid"
    ],
    "shop_links": {
     "mid": "https://www.lulus.com/products/marvari-taupe-suede-square-toe-knee-high-boots/2309351.html",
@@ -369,7 +466,8 @@
    ],
    "color_stories": [
     "cabernet-navy",
-    "harvest"
+    "harvest",
+    "winter-white"
    ],
    "shop_links": {
     "everyday": "https://oldnavy.gap.com/browse/product.do?pid=408049012",
@@ -400,7 +498,9 @@
    ],
    "color_stories": [
     "cabernet-navy",
-    "harvest"
+    "harvest",
+    "winter-white",
+    "holiday-plaid"
    ],
    "shop_links": {
     "everyday": "https://www.target.com/p/men-39-s-leo-dress-shoes-goodfellow-38-co-8482-brown-9-5/-/A-94566330",
@@ -461,7 +561,9 @@
    ],
    "color_stories": [
     "cabernet-navy",
-    "harvest"
+    "harvest",
+    "winter-white",
+    "holiday-plaid"
    ],
    "shop_links": {
     "everyday": "https://oldnavy.gap.com/browse/product.do?pid=907866002",
@@ -545,7 +647,8 @@
     "winter"
    ],
    "color_stories": [
-    "cabernet-navy"
+    "cabernet-navy",
+    "holiday-plaid"
    ],
    "shop_links": {
     "everyday": "https://www.gapfactory.com/browse/product.do?pid=1178861001",
@@ -573,7 +676,9 @@
    ],
    "color_stories": [
     "cabernet-navy",
-    "harvest"
+    "harvest",
+    "winter-white",
+    "holiday-plaid"
    ],
    "shop_links": {
     "everyday": "https://oldnavy.gap.com/browse/product.do?pid=621665002",
@@ -601,7 +706,9 @@
     "all"
    ],
    "color_stories": [
-    "cabernet-navy"
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
    ],
    "shop_links": {
     "everyday": "https://www.target.com/p/kids-boston-court-lace-up-sneakers-cat-jack-white/-/A-1011102525",
@@ -630,7 +737,9 @@
    "color_stories": [
     "cabernet-navy",
     "harvest",
-    "evergreen"
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "3 links",
    "file": "b_sho_001.jpg",
@@ -659,7 +768,9 @@
     "holiday"
    ],
    "color_stories": [
-    "evergreen"
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "1 link",
    "file": "g_acc_003.jpg",
@@ -686,7 +797,8 @@
     "winter"
    ],
    "color_stories": [
-    "cabernet-navy"
+    "cabernet-navy",
+    "holiday-plaid"
    ],
    "link_tier": "2 links",
    "note": "Standout dress for boards where a girl anchors",
@@ -716,7 +828,8 @@
    "color_stories": [
     "cabernet-navy",
     "harvest",
-    "evergreen"
+    "evergreen",
+    "winter-white"
    ],
    "link_tier": "3 links",
    "file": "m_top_003.jpg",
@@ -866,7 +979,9 @@
    "color_stories": [
     "cabernet-navy",
     "harvest",
-    "evergreen"
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "2 links",
    "file": "w_sho_002.jpg",
@@ -4679,7 +4794,9 @@
     "cabernet-navy",
     "harvest",
     "evergreen",
-    "rose-olive"
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "2 links",
    "description": "Men's fine-gauge cashmere quarter-zip pullover in light greige oatmeal, approximately #CFC6B4. Stand-up mock collar with a short metal zip, long sleeves, ribbed cuffs and hem, hip length. No logos.",
@@ -4705,7 +4822,8 @@
    ],
    "color_stories": [
     "rose-olive",
-    "harvest"
+    "harvest",
+    "winter-white"
    ],
    "link_tier": "2 links",
    "description": "Men's cotton canvas chore jacket in taupe khaki, approximately #A08E78. Point collar, button front, long sleeves with button cuffs, three patch pockets (one chest, two hip), straight hip-length hem. No logos.",
@@ -5044,7 +5162,9 @@
     "cabernet-navy",
     "harvest",
     "evergreen",
-    "rose-olive"
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "1 link",
    "description": "Toddler fine-gauge crewneck sweater in soft greige oatmeal, approximately #CFC6B4. Ribbed crew neckline, long sleeves, ribbed cuffs and hem. Solid. No logos.",
@@ -5117,7 +5237,9 @@
     "cabernet-navy",
     "harvest",
     "evergreen",
-    "rose-olive"
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "1 link",
    "description": "Baby boy's two-piece set in warm greige, approximately #CFC6B4: soft waffle-knit long-sleeve crewneck top with ribbed cuffs and matching pull-on joggers with ribbed ankles, shown together as one flat lay. No logos.",
@@ -5142,7 +5264,9 @@
     "cabernet-navy",
     "harvest",
     "evergreen",
-    "rose-olive"
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "2 links",
    "description": "Baby girl's soft stretchy nylon headband with a medium cotton bow in warm ivory, approximately #EFE7D6. Bow tails slightly flared, headband laid in a gentle loop. No logos.",
@@ -5455,7 +5579,8 @@
     "navy"
    ],
    "color_stories": [
-    "evergreen"
+    "evergreen",
+    "holiday-plaid"
    ],
    "link_tier": "2 links",
    "description": "Forest tartan toddler flannel shirt. Toddler flannel shirt, forest-green tartan with red and navy bands and fine gold lines.",
@@ -5736,7 +5861,9 @@
    ],
    "color_stories": [
     "harvest",
-    "evergreen"
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "1 link",
    "description": "Camel crewneck sweater. Boys' fine-knit cashmere crewneck pullover in heathered camel tan, smooth jersey knit with ribbed crew neckline, cuffs and hem, long sleeves.",
@@ -5757,7 +5884,8 @@
     "burgundy"
    ],
    "color_stories": [
-    "cabernet-navy"
+    "cabernet-navy",
+    "holiday-plaid"
    ],
    "link_tier": "3 links",
    "description": "Cabernet crewneck sweater. Men's regular-fit crewneck pullover in deep burgundy wine, soft brushed knit with ribbed crew neckline, cuffs and hem, long sleeves, hip length.",
@@ -5780,7 +5908,8 @@
     "camel"
    ],
    "color_stories": [
-    "harvest"
+    "harvest",
+    "winter-white"
    ],
    "link_tier": "2 links",
    "description": "Camel waffle henley. ",
@@ -5802,7 +5931,8 @@
     "forest"
    ],
    "color_stories": [
-    "evergreen"
+    "evergreen",
+    "holiday-plaid"
    ],
    "link_tier": "2 links",
    "description": "Forest corduroy overshirt. Men's oversized cotton corduroy shirt-jacket in dark forest green, with a turn-down collar, snap-front closure, two patch chest pockets, long sleeves with snap cuffs, and a rounded hem.",
@@ -5852,7 +5982,9 @@
     "cabernet-navy",
     "harvest",
     "evergreen",
-    "rose-olive"
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "3 links",
    "description": "Cream cable crewneck sweater. Men's regular-fit cotton cable-knit crewneck sweater in cream, with vertical cable panels down the front and sleeves, ribbed round neckline, ribbed cuffs and hem, long sleeves.",
@@ -5926,7 +6058,9 @@
     "cabernet-navy",
     "harvest",
     "evergreen",
-    "rose-olive"
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "2 links",
    "description": "Cream puff-sleeve blouse. Cream woven cotton-viscose blouse with short gathered puff sleeves, a ruffled collar framing a V-neck opening, a button front, and a relaxed hip-length body.",
@@ -5974,7 +6108,9 @@
     "cabernet-navy",
     "harvest",
     "evergreen",
-    "rose-olive"
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
    ],
    "link_tier": "1 link",
    "description": "Greige cable sweater. Boys' cotton cable-knit crewneck pullover sweater in warm ecru/oatmeal, with chunky vertical cables down the front, ribbed crew neckline, ribbed cuffs and hem, long sleeves.",
@@ -6003,6 +6139,1894 @@
    "shop_links": {
     "everyday": "https://www.kohls.com/product/prd-5580568/girls-6-20-so-favorite-corduroy-skirt-in-regular-plus.jsp",
     "splurge": "https://www.jcrew.com/p/girls/categories/clothing/shorts/skirts/button-front-corduroy-skirt/BS431?color_name=utility-green&N=8&noPopUp=true"
+   }
+  },
+  {
+   "id": "BB-SET-003",
+   "file": "bb_set_003.jpg",
+   "name": "Navy cable cardigan and pants set",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#26324F",
+   "pattern": false,
+   "colors": [
+    "navy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "evergreen",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Navy cable cardigan and pants set. Solid navy cotton cable-knit button-front baby cardigan with ribbed cuffs and hem, worn with matching navy knit pull-on pants.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1235078001.html"
+   }
+  },
+  {
+   "id": "BB-SET-004",
+   "file": "bb_set_004.jpg",
+   "name": "Oatmeal cable sweater and pants set",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#D9CBB2",
+   "pattern": false,
+   "colors": [
+    "oatmeal"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Oatmeal cable sweater and pants set. Beige-oatmeal 100% cotton cable-knit button-front cardigan with matching cable-knit pull-on pants with elastic waist and rolled cuffs.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/hope-henry-baby-cable-knit-sweater-romper-soft-white-0-3-months/-/A-83358924",
+    "mid": "https://www.janieandjack.com/item/baby-boy-cable-knit-one-piece-100022283.html?lang=en_US",
+    "splurge": "https://www.nordstrom.com/s/cable-knit-cotton-cardigan-pants-set-baby/9004974"
+   }
+  },
+  {
+   "id": "BB-DRS-012",
+   "file": "bb_drs_012.jpg",
+   "name": "Chambray collared baby romper",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#7D94B0",
+   "pattern": false,
+   "colors": [
+    "chambray"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest"
+   ],
+   "link_tier": "3 links",
+   "description": "Chambray collared baby romper. Mid-blue woven cotton chambray long-sleeve romper with a contrasting soft white collar, button-front placket, single chest pocket and straight short legs.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/hope-henry-layette-baby-boy-long-sleeve-button-front-chambray-romper-infant-0-3-months/-/A-89309692",
+    "mid": "https://hopeandhenry.com/products/23fl2027a-blue-chambray-long-sleeve-button-front-romper",
+    "splurge": "https://www.rachelriley.com/products/chambray-overall-set"
+   }
+  },
+  {
+   "id": "BB-DRS-013",
+   "file": "bb_drs_013.jpg",
+   "name": "Warm brown corduroy baby overalls",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#A4502C",
+   "pattern": false,
+   "colors": [
+    "brown"
+   ],
+   "color_stories": [
+    "harvest"
+   ],
+   "link_tier": "1 link",
+   "description": "Warm brown corduroy baby overalls. Warm brown fine-wale cotton corduroy baby overall with a bib front, adjustable button shoulder straps, snap inseam and slightly rolled cuffs.",
+   "shop_links": {
+    "splurge": "https://www.nordstrom.com/s/pehr-organic-cotton-corduroy-overalls-baby/8048187"
+   }
+  },
+  {
+   "id": "BB-SET-005",
+   "file": "bb_set_005.jpg",
+   "name": "Burgundy knit baby sweater",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#6B1F2E",
+   "pattern": false,
+   "colors": [
+    "burgundy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Burgundy knit baby sweater. A solid deep wine-red fine-knit crewneck sweater with long sleeves, ribbed cuffs and hem, and a small button placket at the back neck.",
+   "shop_links": {
+    "mid": "https://www.quince.com/baby-&-kids/apparel/washable-cashmere-crewneck-sweater-baby-gender-neutral?color=rich-burgundy"
+   }
+  },
+  {
+   "id": "BB-DRS-016",
+   "file": "bb_drs_016.jpg",
+   "name": "Dusty rose cable knit romper",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#C99A9A",
+   "pattern": false,
+   "colors": [
+    "dusty rose"
+   ],
+   "color_stories": [
+    "rose-olive"
+   ],
+   "link_tier": "1 link",
+   "description": "Dusty rose cable knit romper. A long-sleeve cable-knit one-piece in muted rose-pink heather cotton blend, with a ribbed ruffle collar, button front and buttons down both legs.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/baby-girl-baby-cable-knit-collared-one-piece-100047021.html?lang=en_US"
+   }
+  },
+  {
+   "id": "BB-DRS-017",
+   "file": "bb_drs_017.jpg",
+   "name": "Ivory pointelle ruffle-collar romper",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#EFE6D6",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Ivory pointelle ruffle-collar romper. A long-sleeve ivory cotton pointelle romper with ruffle trim and a small allover floral print.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/baby-girl-baby-floral-pointelle-ruffle-romper-200770419.html?lang=en_US"
+   }
+  },
+  {
+   "id": "BB-DRS-018",
+   "file": "bb_drs_018.jpg",
+   "name": "Heather gray knit romper",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#9EA0A2",
+   "pattern": false,
+   "colors": [
+    "heather gray"
+   ],
+   "color_stories": [
+    "evergreen",
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Heather gray knit romper. A long-sleeve baby romper in a soft heather-gray sweater knit with a small collar.",
+   "shop_links": {
+    "mid": "https://hopeandhenry.com/products/cable-knit-sweater-romper-in-organic-cotton-grey",
+    "splurge": "https://www.jacadi.us/toddler/Newborn/Bloomers-overalls-and-sets/Baby-cashmere-jumpsuit/p/2032097_780"
+   }
+  },
+  {
+   "id": "BB-SHO-003",
+   "file": "bb_sho_003.jpg",
+   "name": "Cream knit baby booties",
+   "person": "babies",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#EEE5D3",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Cream knit baby booties. Wrap-front baby booties in cream fleece with a fluffy faux-shearling cuff and lining, a hook-and-loop strap across the front, a rounded closed toe and non-skid soles.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/hudson-baby-baby-and-toddler-cozy-fleece-and-faux-shearling-booties-cream-0-6-months/-/A-82658329",
+    "splurge": "https://ryleeandcru.com/products/knit-booties-heathered-natural"
+   }
+  },
+  {
+   "id": "BB-ACC-004",
+   "file": "bb_acc_004.jpg",
+   "name": "Cream knit baby bonnet",
+   "person": "babies",
+   "category": "accessory",
+   "layout_role": "accent",
+   "hex": "#EEE5D3",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Cream knit baby bonnet. A soft cream cotton-knit baby bonnet with a ribbed edge around the face opening and knit ties under the chin.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1238670004.html"
+   }
+  },
+  {
+   "id": "TB-TOP-009",
+   "file": "tb_top_009.jpg",
+   "name": "Forest and navy flannel shirt",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#2A3B3A",
+   "pattern": true,
+   "colors": [
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "evergreen",
+    "cabernet-navy"
+   ],
+   "link_tier": "2 links",
+   "description": "Forest and navy flannel shirt. A long-sleeve button-front cotton flannel shirt in Black Watch tartan, deep forest green and navy blocks crossed by dark black-green lines, with a point collar and buttoned cuffs.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1289476004.html",
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/shirts2/flannel/midweight-flannel-shirt-in-black-watch-tartan/AE763"
+   },
+   "pattern_scale": "medium tartan",
+   "pattern_family": "black-watch"
+  },
+  {
+   "id": "TB-TOP-010",
+   "file": "tb_top_010.jpg",
+   "name": "Oatmeal fair isle crewneck sweater",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#D8CBB4",
+   "pattern": true,
+   "colors": [
+    "oatmeal"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen",
+    "cabernet-navy"
+   ],
+   "link_tier": "2 links",
+   "description": "Oatmeal fair isle crewneck sweater. A crewneck pullover in heathered cream lambswool with a multicolor fair isle jacquard yoke band around the shoulders and chest, finished with ribbed neck, cuffs and hem.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/lands-end-men-s-fairisle-yoke-crewneck-sweater-small-allspice-geo-fairisle/-/A-90082235",
+    "mid": "https://factory.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/supersoft-lambswool-blend-fair-isle-crewneck-sweater/CF259"
+   },
+   "pattern_scale": "fair isle yoke",
+   "pattern_family": "oat-fair-isle",
+   "statement": true
+  },
+  {
+   "id": "TB-TOP-011",
+   "file": "tb_top_011.jpg",
+   "name": "Slate blue crewneck sweater",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#6F8299",
+   "pattern": false,
+   "colors": [
+    "slate blue"
+   ],
+   "color_stories": [
+    "harvest",
+    "cabernet-navy"
+   ],
+   "link_tier": "1 link",
+   "description": "Slate blue crewneck sweater. A classic-fit solid crewneck pullover in soft 12-gauge cashmere in a muted faded-denim blue, with ribbed neckline, cuffs and hem.",
+   "shop_links": {
+    "mid": "https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=faded-denim"
+   }
+  },
+  {
+   "id": "TB-TOP-012",
+   "file": "tb_top_012.jpg",
+   "name": "Chocolate quarter-zip sweater",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#4E3426",
+   "pattern": false,
+   "colors": [
+    "chocolate"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen"
+   ],
+   "link_tier": "2 links",
+   "description": "Chocolate quarter-zip sweater. A solid chocolate-brown knit pullover sweater with a stand collar, a short metal-zip placket at the neck, long sleeves, and ribbed cuffs and hem, in a soft cotton-blend yarn.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_ca/productpage.1286499002.html",
+    "mid": "https://www.abercrombie.com/shop/us/p/quarter-zip-sweater-63845821"
+   }
+  },
+  {
+   "id": "TB-TOP-013",
+   "file": "tb_top_013.jpg",
+   "name": "Olive waffle crewneck",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#6B6B3F",
+   "pattern": false,
+   "colors": [
+    "olive"
+   ],
+   "color_stories": [
+    "rose-olive",
+    "harvest",
+    "evergreen"
+   ],
+   "link_tier": "1 link",
+   "description": "Olive waffle crewneck. A slim long-sleeve crewneck shirt in olive-heather waffle-knit cotton blend, with ribbed trim at the neck and cuffs.",
+   "shop_links": {
+    "everyday": "https://www.amazon.com/clp/B07QGKXWCP"
+   }
+  },
+  {
+   "id": "TB-TOP-014",
+   "file": "tb_top_014.jpg",
+   "name": "Heather gray crewneck sweatshirt",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#A3A5A8",
+   "pattern": false,
+   "colors": [
+    "heather gray"
+   ],
+   "color_stories": [
+    "evergreen",
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Heather gray crewneck sweatshirt. A plain heathered gray cotton-blend fleece crewneck sweatshirt with ribbed collar, cuffs and hem and no graphics.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/men-39-s-every-wear-fleece-crewneck-pullover-sweatshirt-goodfellow-38-co-8482-heathered-gray-xxl/-/A-95216838",
+    "mid": "https://www.gap.com/browse/product.do?pid=416620092"
+   }
+  },
+  {
+   "id": "TB-OUT-005",
+   "file": "tb_out_005.jpg",
+   "name": "Brown corduroy sherpa-collar trucker jacket",
+   "person": "teen boys",
+   "category": "outerwear",
+   "layout_role": "layer",
+   "hex": "#6B4A32",
+   "pattern": false,
+   "colors": [
+    "brown"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen"
+   ],
+   "link_tier": "1 link",
+   "description": "Brown corduroy sherpa-collar trucker jacket. Trucker-style jacket in brown wide-wale cotton corduroy with chest flap pockets, button front and a cream sherpa lining that folds over the collar.",
+   "shop_links": {
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/coats-and-jackets/denim-and-trucker-jacket/wallace-amp-barnes-sherpa-lined-corduroy-jacket/AB733"
+   },
+   "statement": true
+  },
+  {
+   "id": "TB-OUT-006",
+   "file": "tb_out_006.jpg",
+   "name": "Camel chore jacket",
+   "person": "teen boys",
+   "category": "outerwear",
+   "layout_role": "layer",
+   "hex": "#B08A5E",
+   "pattern": false,
+   "colors": [
+    "camel"
+   ],
+   "color_stories": [
+    "harvest",
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Camel chore jacket. A hip-length, boxy shirt-jacket in heavy brown-tan cotton canvas with a pointed collar, button front, long sleeves, and flat patch pockets on the chest and lower front.",
+   "shop_links": {
+    "everyday": "https://www.kohls.com/product/prd-7708508/mens-lands-end-canvas-chore-jacket.jsp",
+    "mid": "https://factory.jcrew.com/p/mens/categories/clothing/jackets-and-vests/jackets/canvas-chore-jacket/CL297",
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/coats-and-jackets/chore_and_utility/wallace-barnes-duck-canvas-utility-chore-jacket/AU670"
+   }
+  },
+  {
+   "id": "TB-OUT-007",
+   "file": "tb_out_007.jpg",
+   "name": "Charcoal wool-blend overshirt",
+   "person": "teen boys",
+   "category": "outerwear",
+   "layout_role": "layer",
+   "hex": "#4A4C50",
+   "pattern": false,
+   "colors": [
+    "charcoal"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "evergreen",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Charcoal wool-blend overshirt. A heathered charcoal-gray wool-blend shirt jacket with a point collar, button front, two buttoned flap chest pockets and button cuffs, cut straight to the hip.",
+   "shop_links": {
+    "mid": "https://www.quince.com/men/italian-wool-overshirt?color=heather-charcoal",
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/coats-and-jackets/shirt-jacket/brushed-wool-overshirt/CC977"
+   }
+  },
+  {
+   "id": "TB-BTM-004",
+   "file": "tb_btm_004.jpg",
+   "name": "Dark wash relaxed jeans",
+   "person": "teen boys",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#2E3A55",
+   "pattern": false,
+   "colors": [
+    "dark denim"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive"
+   ],
+   "link_tier": "3 links",
+   "description": "Dark wash relaxed jeans. Five-pocket straight-leg jeans in a uniform deep indigo rinse with no fading or whiskering, tonal stitching, and a clean hem.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/wranglers-men-39-s-relaxed-fit-straight-jeans-dark-wash-34x30/-/A-90919098",
+    "mid": "https://factory.jcrew.com/p/mens/categories/clothing/jeans/straight/straightfit-flex-jean-in-dark-rinse/L0175",
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/denim/straight/770trade-straight-fit-stretch-jean-in-dark-indigo-wash/CK014"
+   }
+  },
+  {
+   "id": "TB-BTM-005",
+   "file": "tb_btm_005.jpg",
+   "name": "Charcoal relaxed trousers",
+   "person": "teen boys",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#4A4C50",
+   "pattern": false,
+   "colors": [
+    "charcoal"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "evergreen",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Charcoal relaxed trousers. Relaxed straight-leg trousers in a flat dark charcoal-gray woven fabric with front pleats, sharp pressed creases, and a clean waistband with belt loops.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1261758002.html",
+    "mid": "https://www.quince.com/men/performance-lounge-trouser?color=dark-charcoal",
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/suiting-pants/relaxed-fit-single-pleat-trouser-in-italian-wool-flannel/BZ630"
+   }
+  },
+  {
+   "id": "TB-BTM-006",
+   "file": "tb_btm_006.jpg",
+   "name": "Chocolate relaxed chinos",
+   "person": "teen boys",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#5A3E2C",
+   "pattern": false,
+   "colors": [
+    "chocolate"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen"
+   ],
+   "link_tier": "3 links",
+   "description": "Chocolate relaxed chinos. Straight-leg flat-front chinos in a dark chocolate-brown cotton twill with slant front pockets, belt loops, and a clean unbroken hem.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1283093002.html",
+    "mid": "https://factory.jcrew.com/m/mens/categories/clothing/pants-and-khakis/straight/straight-fit-original-chino-pant/MF988?display=standard&fit=Straight&color_name=dark-brown&colorProductCode=CO400",
+    "splurge": "https://www.jcrew.com/p/mens_category/pants/relaxed/1450-relaxedfit-stretch-chino/G9488"
+   }
+  },
+  {
+   "id": "TB-SHO-002",
+   "file": "tb_sho_002.jpg",
+   "name": "Dark brown leather lace-up boots",
+   "person": "teen boys",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#4A3022",
+   "pattern": false,
+   "colors": [
+    "brown"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Dark brown leather lace-up boots. A pair of dark chocolate-brown smooth leather ankle boots with moc-toe stitching, a lace-up front with metal eyelets, a padded collar with a heel pull loop, and a chunky lightweight rubber-edged sole.",
+   "shop_links": {
+    "mid": "https://www.llbean.com/llb/shop/123213?page=mens-stonington-boot-moc-toe-mens",
+    "splurge": "https://www.clarks.com/en-us/torhill-hi/26327242-p"
+   }
+  },
+  {
+   "id": "W-SHO-006",
+   "file": "w_sho_006.jpg",
+   "name": "Cognac leather knee-high riding boots",
+   "person": "women",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#8B5A2B",
+   "pattern": false,
+   "colors": [
+    "cognac"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen",
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Cognac leather knee-high riding boots. A pair of knee-high riding boots in smooth, burnished whiskey-cognac leather, with a slanted shaft, a low 1-inch stacked heel, a rounded toe, a back zip with a snap tab, and elastic gore at the top.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/women-s-cosette-tall-boots-universal-thread-cognac/-/A-95174664",
+    "splurge": "https://www.nordstrom.com/s/sam-edelman-penny-boot-women-regular-wide-calf/3302621"
+   },
+   "statement": true
+  },
+  {
+   "id": "W-SHO-007",
+   "file": "w_sho_007.jpg",
+   "name": "Cream ballet flats",
+   "person": "women",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#EDE3D1",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Cream ballet flats. A pair of soft ivory leather ballet flats with a rounded toe, leather lining and a thin flexible rubber sole.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/women-39-s-ruthie-ballet-flats-a-new-day-8482-cream-8/-/A-1010659696",
+    "mid": "https://bananarepublic.gap.com/browse/product.do?pid=671454032"
+   }
+  },
+  {
+   "id": "W-SHO-008",
+   "file": "w_sho_008.jpg",
+   "name": "Burgundy suede block-heel pumps",
+   "person": "women",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#5E1F2B",
+   "pattern": false,
+   "colors": [
+    "burgundy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Burgundy suede block-heel pumps. Burgundy vegan suede heels with a closed almond toe, a thin buckled ankle strap and a 3.5-inch suede-wrapped block heel.",
+   "shop_links": {
+    "mid": "https://www.lulus.com/products/ellarose-burgundy-suede-ankle-strap-heels/680012.html"
+   }
+  },
+  {
+   "id": "W-SHO-009",
+   "file": "w_sho_009.jpg",
+   "name": "Dusty rose suede flats",
+   "person": "women",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#B98A8C",
+   "pattern": false,
+   "colors": [
+    "dusty rose"
+   ],
+   "color_stories": [
+    "rose-olive"
+   ],
+   "link_tier": "3 links",
+   "description": "Dusty rose suede flats. Round-toe ballet flat in soft napped suede in a muted ash-rose, low thin sole and a simple scooped topline.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/minnetonka-women-s-anna-ballerina-flat-256-blush-pink-5/-/A-81225096",
+    "mid": "https://us.boden.com/products/women-point-flexi-sole-flats-pink-suede-a2029prl",
+    "splurge": "https://www.nordstrom.com/s/suede-round-toe-ballet-flats/9075632"
+   }
+  },
+  {
+   "id": "W-SHO-010",
+   "file": "w_sho_010.jpg",
+   "name": "Chocolate leather Mary Jane flats",
+   "person": "women",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#4A2F22",
+   "pattern": false,
+   "colors": [
+    "chocolate"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen",
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Chocolate leather Mary Jane flats. Round-toe ballet-style flat in smooth dark chocolate-brown leather with a single thin strap across the instep fastening with a small metal buckle.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1236133004.html",
+    "mid": "https://bananarepublic.gap.com/browse/product.do?pid=859384012",
+    "splurge": "https://www.nordstrom.com/s/michaela-mary-jane-flat-women/6402978"
+   }
+  },
+  {
+   "id": "M-SHO-007",
+   "file": "m_sho_007.jpg",
+   "name": "Brown leather moc-toe boots",
+   "person": "men",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#6B4428",
+   "pattern": false,
+   "colors": [
+    "brown"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Brown leather moc-toe boots. Six-inch lace-up work boot in smooth reddish copper-brown leather with a stitched moccasin-style toe, cord laces through metal eyelets, and a contrasting pale rubber wedge sole.",
+   "shop_links": {
+    "everyday": "https://www.kohls.com/product/prd-7013799/sonoma-goods-for-life-harlann-mens-moc-toe-lug-sole-hiker-boots.jsp",
+    "mid": "https://www.llbean.com/llb/shop/123213?page=mens-stonington-boot-moc-toe-mens",
+    "splurge": "https://www.nordstrom.com/s/red-wing-6-inch-moc-toe-boot-men/3102742"
+   }
+  },
+  {
+   "id": "M-SHO-008",
+   "file": "m_sho_008.jpg",
+   "name": "Burgundy leather loafers",
+   "person": "men",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#5A1E22",
+   "pattern": false,
+   "colors": [
+    "burgundy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Burgundy leather loafers. Classic slip-on penny loafer in polished deep merlot-burgundy leather with a raised moc-stitched apron toe, a saddle strap with a cut-out penny slot, and a low stacked heel on a slim sole.",
+   "shop_links": {
+    "mid": "https://factory.jcrew.com/p/mens/categories/shoes/shoes/classic-penny-loafers/CT008",
+    "splurge": "https://www.jcrew.com/p/mens/categories/shoes/dress-shoes/AV166?display=all&fit=Men&colorProductCode=AV166&colorCode=RD5803"
+   }
+  },
+  {
+   "id": "G-SHO-005",
+   "file": "g_sho_005.jpg",
+   "name": "Ivory Mary Janes",
+   "person": "girls",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#EEE4D2",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Ivory Mary Janes. Round-toe Mary Jane flat in an ivory/cream finish with a single strap across the instep; exact surface (smooth vs patent) not confirmed from a product photo.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/kids-mary-jane-ballet-flat-100045706.html?lang=en_US",
+    "splurge": "https://www.nordstrom.com/s/sam-edelman-kids-maeve-micah-mary-jane-flat-toddler-little-kid-big-kid/7715905"
+   }
+  },
+  {
+   "id": "G-SHO-006",
+   "file": "g_sho_006.jpg",
+   "name": "Navy Mary Janes",
+   "person": "girls",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#2B3550",
+   "pattern": false,
+   "colors": [
+    "navy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Navy Mary Janes. Round-toe Mary Jane in smooth navy leather with a single hook-and-loop instep strap and grosgrain piping around the topline.",
+   "shop_links": {
+    "splurge": "https://www.jacadi.us/shoes/girls/Mary-Janes-T-strap-shoes-ballet-flats/Girl-smooth-leather-Mary-Janes/p/2014010_123"
+   }
+  },
+  {
+   "id": "G-SHO-007",
+   "file": "g_sho_007.jpg",
+   "name": "Blush ballet flats",
+   "person": "girls",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#D7A9A6",
+   "pattern": false,
+   "colors": [
+    "blush"
+   ],
+   "color_stories": [
+    "rose-olive"
+   ],
+   "link_tier": "2 links",
+   "description": "Blush ballet flats. A pair of soft powder-pink ballet flats with a rounded toe, a thin flat sole, and a small flat bow on each vamp.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1297205002.html",
+    "mid": "https://www.janieandjack.com/item/kids-satin-bow-ballet-flat-104418002.html?lang=en_US"
+   }
+  },
+  {
+   "id": "B-SHO-005",
+   "file": "b_sho_005.jpg",
+   "name": "Cognac slip-on sneakers",
+   "person": "boys",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#7B5A40",
+   "pattern": false,
+   "colors": [
+    "cognac"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Cognac slip-on sneakers. A pair of minimal low-top slip-on sneakers in smooth cognac-brown faux leather, with a closed round toe and a flat rubber sole.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/kids-39-rune-slip-on-sneakers-cat-38-jack-8482-cognac-13/-/A-92540113"
+   }
+  },
+  {
+   "id": "T-SHO-003",
+   "file": "t_sho_003.jpg",
+   "name": "White toddler Mary Janes",
+   "person": "toddlers",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#EEE4D2",
+   "pattern": false,
+   "colors": [
+    "white"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "White toddler Mary Janes. A pair of classic white smooth-leather Mary Janes with a rounded toe, a single strap across the top of the foot and a rubber sole.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/kids-mary-jane-ballet-flat-100045706.html?lang=en_US",
+    "splurge": "https://www.nordstrom.com/s/elephantito-mary-jane-walker-toddler-little-kid/5901300"
+   },
+   "toddler_for": "girl"
+  },
+  {
+   "id": "T-SHO-004",
+   "file": "t_sho_004.jpg",
+   "name": "Brown leather toddler boots",
+   "person": "toddlers",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#6B4428",
+   "pattern": false,
+   "colors": [
+    "brown"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Brown leather toddler boots. A pair of clay-brown smooth leather lace-up ankle boots for little boys.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/toddler-boys-hunter-fashion-boots-cat-jack-8482-brown-6/-/A-54344465"
+   },
+   "toddler_for": "boy"
+  },
+  {
+   "id": "T-SHO-005",
+   "file": "t_sho_005.jpg",
+   "name": "Navy suede toddler sneakers",
+   "person": "toddlers",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#2B3550",
+   "pattern": false,
+   "colors": [
+    "navy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Navy suede toddler sneakers. Minimal low-top toddler sneaker in navy faux suede with two hook-and-loop straps across the vamp, a rubber midsole and a cushioned footbed.",
+   "shop_links": {
+    "everyday": "https://oldnavy.gap.com/browse/product.do?pid=804394012"
+   }
+  },
+  {
+   "id": "TG-SHO-004",
+   "file": "tg_sho_004.jpg",
+   "name": "Chocolate leather ballet flats",
+   "person": "teen girls",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#4A2F22",
+   "pattern": false,
+   "colors": [
+    "chocolate"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen",
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Chocolate leather ballet flats. Classic round-toe ballet flat in smooth dark brown leather with a low, flat sole.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1236003002.html",
+    "splurge": "https://www.nordstrom.com/s/the-greta-ballet-flat-women/7575401"
+   }
+  },
+  {
+   "id": "TG-SHO-005",
+   "file": "tg_sho_005.jpg",
+   "name": "Cream ballet flats",
+   "person": "teen girls",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#EDE3D1",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Cream ballet flats. Slip-on almond-toe ballet flat in smooth cream faux leather with a small bow at the front and a flat sole.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/women-39-s-ruthie-ballet-flats-a-new-day-8482-cream-8/-/A-1010659696",
+    "mid": "https://www.lulus.com/products/baylee-cream-perforated-suede-buckle-ballet-flats/2829811.html",
+    "splurge": "https://www.nordstrom.com/s/sam-edelman-marcie-ballet-flat-women/8207349"
+   }
+  },
+  {
+   "id": "W-TOP-009",
+   "file": "w_top_009.jpg",
+   "name": "Navy cable-knit sweater",
+   "person": "women",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#26324F",
+   "pattern": false,
+   "colors": [
+    "navy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Navy cable-knit sweater. Classic-fit crewneck pullover in navy cotton with vertical cable-stitch panels down the front and sleeves and ribbed neckline, cuffs and hem.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1229918003.html",
+    "mid": "https://www.quince.com/women/women-s-100-organic-cotton-cable-crewneck-sweater?color=navy",
+    "splurge": "https://www.jcrew.com/p/womens/categories/clothing/sweaters/pullovers/cable-knit-crewneck-sweater/BV360"
+   }
+  },
+  {
+   "id": "W-TOP-010",
+   "file": "w_top_010.jpg",
+   "name": "Camel turtleneck sweater",
+   "person": "women",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#B08A5E",
+   "pattern": false,
+   "colors": [
+    "camel"
+   ],
+   "color_stories": [
+    "harvest",
+    "cabernet-navy",
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Camel turtleneck sweater. Long, relaxed fine-knit turtleneck in warm camel with a ribbed rolled collar, heavily dropped shoulders, ribbed cuffs and hem, and side slits.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.0608999002.html",
+    "splurge": "https://www.jcrew.com/p/womens/categories/clothing/sweaters/pullovers/everyday-cashmere-turtleneck-sweater/J6600"
+   }
+  },
+  {
+   "id": "W-TOP-011",
+   "file": "w_top_011.jpg",
+   "name": "Chocolate ribbed turtleneck",
+   "person": "women",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#4E3426",
+   "pattern": false,
+   "colors": [
+    "chocolate"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen"
+   ],
+   "link_tier": "2 links",
+   "description": "Chocolate ribbed turtleneck. Fitted, hip-length long-sleeve turtleneck in a fine stretch-cotton micro-rib in deep chocolate brown, with a folded turtleneck collar.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/women-39-s-regular-fit-turtleneck-ribbed-shirt-a-new-day-8482-brown-xs/-/A-54613217",
+    "mid": "https://www.quince.com/women/organic-cotton-rib-turtleneck"
+   }
+  },
+  {
+   "id": "W-TOP-012",
+   "file": "w_top_012.jpg",
+   "name": "Dusty rose fuzzy crewneck sweater",
+   "person": "women",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#C99A9A",
+   "pattern": false,
+   "colors": [
+    "dusty rose"
+   ],
+   "color_stories": [
+    "rose-olive"
+   ],
+   "link_tier": "2 links",
+   "description": "Dusty rose fuzzy crewneck sweater. Oversized round-neck pullover in a soft, hazy mohair-wool blend knit in muted pink, with dropped shoulders and ribbed neckline, cuffs and hem.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1242877031.html",
+    "mid": "https://www.quince.com/women/mongolian-cashmere-boxy-crewneck-sweater?color=heather-shaded-rose-pink"
+   }
+  },
+  {
+   "id": "W-TOP-013",
+   "file": "w_top_013.jpg",
+   "name": "Cream ruffle-collar blouse",
+   "person": "women",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#F0E7D6",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Cream ruffle-collar blouse. A cream woven crepe blouse with a small collar edged in ruffles, a ruffled V-shaped yoke, a front neck opening with long ties, and long balloon sleeves finished with ruffled buttoned cuffs.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1308403001.html",
+    "mid": "https://us.boden.com/products/women-ruffle-embroidered-blouse-warm-ivory-t1993ecr"
+   },
+   "statement": true
+  },
+  {
+   "id": "W-TOP-014",
+   "file": "w_top_014.jpg",
+   "name": "Burgundy satin blouse",
+   "person": "women",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#5E1F2B",
+   "pattern": false,
+   "colors": [
+    "burgundy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "evergreen",
+    "rose-olive",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Burgundy satin blouse. A long-sleeve button-front blouse in lustrous deep wine-red stretch silk satin, with a notch collar and a slim, fluid drape.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1220978036.html",
+    "mid": "https://www.quince.com/women/silk/silk-notch-collar-blouse?color=wine-tasting-red"
+   }
+  },
+  {
+   "id": "W-BTM-008",
+   "file": "w_btm_008.jpg",
+   "name": "Camel wide-leg trousers",
+   "person": "women",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#B08A5E",
+   "pattern": false,
+   "colors": [
+    "camel"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Camel wide-leg trousers. High-rise wide-leg pull-on pants in a soft camel matte cotton-modal double knit with an elastic waistband.",
+   "shop_links": {
+    "mid": "https://www.quince.com/women/organic-cotton-double-knit-wide-leg-pants?color=soft-camel"
+   }
+  },
+  {
+   "id": "W-BTM-009",
+   "file": "w_btm_009.jpg",
+   "name": "Chocolate satin midi skirt",
+   "person": "women",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#4E3426",
+   "pattern": false,
+   "colors": [
+    "chocolate"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen"
+   ],
+   "link_tier": "3 links",
+   "description": "Chocolate satin midi skirt. A fluid mid-calf slip skirt in softly lustrous silk satin with a smooth, narrow elastic waist and a straight, gently skimming drape, in a deep chocolate brown.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/women-39-s-midi-slip-skirt-a-new-day-8482-brown-xs/-/A-95061295",
+    "mid": "https://www.quince.com/women/silk/silk-skirt",
+    "splurge": "https://www.vince.com/product/matte-satin-slip-skirt-V171831095DARKBARK.html"
+   }
+  },
+  {
+   "id": "W-BTM-010",
+   "file": "w_btm_010.jpg",
+   "name": "Navy wide-leg trousers",
+   "person": "women",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#26324F",
+   "pattern": false,
+   "colors": [
+    "navy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Navy wide-leg trousers. Full-length high-waisted wide-leg trousers in a smooth matte navy twill with sharp pressed front creases, a plain waistband with zip fly and hook closure, and flat mock welt back pockets.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1230818012.html",
+    "mid": "https://www.quince.com/women/performance-tech-wide-leg-pants?color=deep-navy",
+    "splurge": "https://www.sezane.com/us-en/product/marino-trousers/navy"
+   }
+  },
+  {
+   "id": "W-BTM-011",
+   "file": "w_btm_011.jpg",
+   "name": "Cream knit midi skirt",
+   "person": "women",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#EDE3D1",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "rose-olive",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Cream knit midi skirt. A straight, calf-length pull-on skirt in soft chunky-ribbed cashmere knit with a ribbed elastic waistband, the vertical ribs running hem to waist, in a warm heathered oatmeal cream.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1217931001.html",
+    "mid": "https://www.quince.com/women/mongolian-cashmere-rib-midi-skirt?color=oatmeal",
+    "splurge": "https://www.vince.com/product/cozy-rib-midi-skirt-V145784840HEATHERCREAMOAT.html"
+   }
+  },
+  {
+   "id": "M-BTM-006",
+   "file": "m_btm_006.jpg",
+   "name": "Chocolate corduroy pants",
+   "person": "men",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#4E3426",
+   "pattern": false,
+   "colors": [
+    "chocolate"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen"
+   ],
+   "link_tier": "2 links",
+   "description": "Chocolate corduroy pants. Straight-leg five-pocket pants in soft midweight stretch corduroy with a medium wale, button-and-zip front and belt loops, in a deep black-coffee chocolate brown.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/men-39-s-straight-fit-corduroy-5-pocket-pants-goodfellow-38-co-8482-brown-33x30/-/A-94475250",
+    "mid": "https://www.llbean.com/llb/shop/128893?page=mens-beanflex-corduroy-5-pocket-pants-standard-fit-mens"
+   },
+   "also_for": [
+    "teen boys"
+   ]
+  },
+  {
+   "id": "M-BTM-007",
+   "file": "m_btm_007.jpg",
+   "name": "Navy chinos",
+   "person": "men",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#26324F",
+   "pattern": false,
+   "colors": [
+    "navy"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Navy chinos. Flat-front slim-tapered chino trousers in a solid navy stretch cotton twill with slant front pockets and a button waist.",
+   "shop_links": {
+    "everyday": "https://oldnavy.gap.com/browse/product.do?pid=408049052",
+    "mid": "https://factory.jcrew.com/m/mens/categories/clothing/pants-and-khakis/athletic/athletic-slim-fit-khaki-pant/MF996?display=standard&fit=Athletic+Slim&color_name=navy&colorProductCode=AZ844",
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/chino/classic-relaxed-fit-chino-pant/BE611?display=sale&fit=Classic&isFromSale=true&color_name=darkest-navy&colorProductCode=BE611"
+   },
+   "also_for": [
+    "teen boys"
+   ]
+  },
+  {
+   "id": "M-BTM-008",
+   "file": "m_btm_008.jpg",
+   "name": "Light heather gray wool trousers",
+   "person": "men",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#8E9094",
+   "pattern": false,
+   "colors": [
+    "heather gray"
+   ],
+   "color_stories": [
+    "evergreen",
+    "cabernet-navy",
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "3 links",
+   "description": "Light heather gray wool trousers. A pair of medium heather-gray mottled wool dress trousers with a flat front, straight legs, belt loops, slant side pockets and a pressed tailored finish.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1272756001.html",
+    "mid": "https://www.quince.com/men/stretch-wool-dress-pants-straight-leg?color=grey-melange",
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/suiting-pants/relaxed-fit-single-pleat-trouser-in-italian-wool-flannel/BZ630"
+   },
+   "also_for": [
+    "teen boys"
+   ]
+  },
+  {
+   "id": "B-BTM-006",
+   "file": "b_btm_006.jpg",
+   "name": "Stone chinos",
+   "person": "boys",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#CDBFA4",
+   "pattern": false,
+   "colors": [
+    "stone"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "harvest",
+    "evergreen",
+    "winter-white"
+   ],
+   "link_tier": "3 links",
+   "description": "Stone chinos. A pair of flat-front chino pants in a light stone-khaki stretch cotton twill, with a zip fly, button closure, slant front pockets and back pockets.",
+   "shop_links": {
+    "everyday": "https://www.landsend.com/products/boys-iron-knee-blend-plain-front-chino-pants/id_365236",
+    "mid": "https://www.janieandjack.com/item/boys-the-twill-pant-100030676.html?lang=en_US",
+    "splurge": "https://www.jcrew.com/p/boys/categories/clothing/bottoms/chino/boys-slim-fit-stretch-chino-pant/AZ588"
+   }
+  },
+  {
+   "id": "B-BTM-007",
+   "file": "b_btm_007.jpg",
+   "name": "Gray dress pants",
+   "person": "boys",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#7E8084",
+   "pattern": false,
+   "colors": [
+    "gray"
+   ],
+   "color_stories": [
+    "cabernet-navy",
+    "evergreen"
+   ],
+   "link_tier": "2 links",
+   "description": "Gray dress pants. Mid-gray woven poly-rayon suit trousers with a flat front and a regular straight leg.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/boys-39-suit-pants-cat-38-jack-8482-gray-12/-/A-92495488",
+    "mid": "https://www.janieandjack.com/item/boys-linen-cotton-suit-pant-100048609.html?lang=en_US"
+   }
+  },
+  {
+   "id": "B-BTM-008",
+   "file": "b_btm_008.jpg",
+   "name": "Tan corduroy pants",
+   "person": "boys",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#B08A5E",
+   "pattern": false,
+   "colors": [
+    "tan"
+   ],
+   "color_stories": [
+    "harvest",
+    "evergreen",
+    "winter-white"
+   ],
+   "link_tier": "2 links",
+   "description": "Tan corduroy pants. Straight-leg boys' pants in a warm caramel-camel stretch cotton corduroy with a mid-wale rib, front slash pockets and an adjustable waist.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/city-threads-usa-made-boys-soft-stretch-cord-pants-with-knee-articulation-matching-stitch-dark-khaki-12y/-/A-90661496",
+    "splurge": "https://www.jcrew.com/p/boys/categories/clothing/bottoms/cord/kids-straight-fit-stretch-corduroy-pant/CM997"
+   }
+  },
+  {
+   "id": "W-DRS-030",
+   "file": "w_drs_030.jpg",
+   "name": "Ivory cable sweater mini dress",
+   "person": "women",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#EDE4D3",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Ivory cable sweater mini dress. Ivory stretch cable-knit sweater dress with a scoop neckline, long balloon sleeves and navy-tipped ribbed cuffs and hem, ending at mid-thigh.",
+   "shop_links": {
+    "mid": "https://www.lulus.com/products/coziest-poise-ivory-cable-knit-long-sleeve-sweater-mini-dress/2467791.html"
+   }
+  },
+  {
+   "id": "W-DRS-031",
+   "file": "w_drs_031.jpg",
+   "name": "Champagne satin midi dress",
+   "person": "women",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#D9C4A3",
+   "pattern": false,
+   "colors": [
+    "champagne"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "2 links",
+   "description": "Champagne satin midi dress. A long-sleeve champagne satin midi shirtdress with a pointed collar, button front and a matching self-tie belt at the waist, soft gold-beige with a gentle sheen.",
+   "shop_links": {
+    "everyday": "https://www.target.com/p/women-39-s-long-sleeve-belted-satin-midi-shirtdress-a-new-day-8482-champagne-m/-/A-95051285",
+    "mid": "https://www.lulus.com/products/precious-aura-champagne-satin-feather-long-sleeve-midi-dress/2235816.html"
+   },
+   "statement": true
+  },
+  {
+   "id": "W-DRS-032",
+   "file": "w_drs_032.jpg",
+   "name": "Red tartan midi dress",
+   "person": "women",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#A3242B",
+   "pattern": true,
+   "colors": [
+    "red",
+    "forest",
+    "navy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red tartan midi dress. A long-sleeve button-front shirtdress in crisp cotton-stretch red-and-black tartan, with a self-tie waist and a skirt that falls just below the knee.",
+   "shop_links": {
+    "mid": "https://factory.jcrew.com/p/womens/categories/clothing/dresses/casual-dresses/long-sleeve-tie-waist-shirtdress-in-tartan/AG887"
+   },
+   "pattern_scale": "medium tartan",
+   "pattern_family": "red-holiday-tartan",
+   "statement": true
+  },
+  {
+   "id": "W-DRS-033",
+   "file": "w_drs_033.jpg",
+   "name": "Burgundy velvet midi dress",
+   "person": "women",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#7E1A24",
+   "pattern": false,
+   "colors": [
+    "burgundy"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Burgundy velvet midi dress. A fitted burgundy stretch-velvet midi dress with a high bateau neckline, long slim sleeves, a deep V open back and a back kick pleat.",
+   "shop_links": {
+    "mid": "https://www.lulus.com/products/va-va-voom-burgundy-velvet-backless-long-sleeve-midi-dress/2240496.html"
+   }
+  },
+  {
+   "id": "W-TOP-015",
+   "file": "w_top_015.jpg",
+   "name": "Ivory fuzzy short-sleeve sweater",
+   "person": "women",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#F0E8DA",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Ivory fuzzy short-sleeve sweater. A cream fuzzy crewneck pullover with a soft, hazy brushed knit, short sleeves, and a relaxed, boxy body finished with ribbed edges.",
+   "shop_links": {
+    "splurge": "https://www.jcrew.com/p/womens/categories/clothing/sweaters/pullovers/puff-sleeve-fuzzy-crewneck-sweater/AC265"
+   }
+  },
+  {
+   "id": "W-OUT-013",
+   "file": "w_out_013.jpg",
+   "name": "Cream boucle coat",
+   "person": "women",
+   "category": "outerwear",
+   "layout_role": "layer",
+   "hex": "#EDE4D3",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "2 links",
+   "description": "Cream boucle coat. A short, fitted cream jacket in nubby woven boucle with a round collarless neckline, covered buttons down the front and at the cuffs, and welt pockets.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1255487003.html",
+    "mid": "https://factory.jcrew.com/p/womens/categories/clothing/jackets/coats/boucleacute-city-coat/BM259"
+   }
+  },
+  {
+   "id": "M-TOP-020",
+   "file": "m_top_020.jpg",
+   "name": "Ivory fisherman cable sweater",
+   "person": "men",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#EDE4D3",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Ivory fisherman cable sweater. A cream-natural cotton fisherman crewneck sweater with allover chunky cable and rope-twist panels, ribbed crew collar, cuffs and hem.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1315091001.html",
+    "mid": "https://factory.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/fisherman-cable-crewneck-sweater/CO119"
+   },
+   "also_for": [
+    "teen boys"
+   ]
+  },
+  {
+   "id": "M-TOP-022",
+   "file": "m_top_022.jpg",
+   "name": "Soft gray merino crewneck",
+   "person": "men",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#B5B5B2",
+   "pattern": false,
+   "colors": [
+    "soft gray"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Soft gray merino crewneck. A fine-gauge 100% merino crewneck pullover in soft heather gray, with a ribbed collar, cuffs and hem and a classic, clean fit.",
+   "shop_links": {
+    "mid": "https://www.llbean.com/llb/shop/5800142?page=All-Seasons-Merino-Crew-Sweater-Mens-Tall"
+   },
+   "also_for": [
+    "teen boys"
+   ]
+  },
+  {
+   "id": "M-OUT-014",
+   "file": "m_out_014.jpg",
+   "name": "Oatmeal shawl-collar cardigan",
+   "person": "men",
+   "category": "outerwear",
+   "layout_role": "layer",
+   "hex": "#D8CBB4",
+   "pattern": false,
+   "colors": [
+    "oatmeal"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Oatmeal shawl-collar cardigan. A thick heathered-natural cotton cardigan in an allover cable knit, with a wide ribbed shawl collar and button front.",
+   "shop_links": {
+    "splurge": "https://www.jcrew.com/p/mens/categories/clothing/sweaters/cardigan/cotton-cableknit-shawl-cardigan-sweater/J2060"
+   },
+   "also_for": [
+    "teen boys"
+   ]
+  },
+  {
+   "id": "G-DRS-018",
+   "file": "g_drs_018.jpg",
+   "name": "Red velvet party dress",
+   "person": "girls",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#8E1C27",
+   "pattern": false,
+   "colors": [
+    "deep red"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "2 links",
+   "description": "Red velvet party dress. A deep holiday-red velvet party dress with short puffed sleeves, a fitted bodice and a full gathered skirt, fully lined and buttoned down the back.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/girls-the-velvet-bow-dress-101859001.html?lang=en_US",
+    "splurge": "https://www.rachelriley.com/products/bow-shoulder-velvet-dress-red-aw25"
+   }
+  },
+  {
+   "id": "G-OUT-006",
+   "file": "g_out_006.jpg",
+   "name": "Ivory fuzzy cardigan",
+   "person": "girls",
+   "category": "outerwear",
+   "layout_role": "layer",
+   "hex": "#F0E8DA",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Ivory fuzzy cardigan. A soft, fluffy ivory sweater-knit cardigan with long sleeves and a button front fastened with little pearl buttons.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/girls-the-cozy-cardigan-102135002.html?lang=en_US"
+   }
+  },
+  {
+   "id": "B-TOP-013",
+   "file": "b_top_013.jpg",
+   "name": "Cream cable sweater vest",
+   "person": "boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#EDE4D3",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Cream cable sweater vest. Cream cotton cable-knit sleeveless sweater vest for kids.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1241917001.html"
+   }
+  },
+  {
+   "id": "B-TOP-014",
+   "file": "b_top_014.jpg",
+   "name": "Soft gray sweater vest",
+   "person": "boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#A8A9A6",
+   "pattern": true,
+   "colors": [
+    "soft gray"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Soft gray sweater vest. A heather grey knit sweater vest with a subtle tone-on-tone argyle pattern and ribbed trim at the neckline, armholes and hem.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1248645001.html"
+   },
+   "pattern_scale": "medium argyle",
+   "pattern_family": "gray-argyle"
+  },
+  {
+   "id": "T-BTM-006",
+   "file": "t_btm_006.jpg",
+   "name": "Cream wide-leg corduroy toddler pants",
+   "person": "toddlers",
+   "category": "bottom",
+   "layout_role": "bottom",
+   "hex": "#E8DDC8",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "2 links",
+   "description": "Cream wide-leg corduroy toddler pants. Cream cotton corduroy wide-leg kids' pants.",
+   "shop_links": {
+    "everyday": "https://www2.hm.com/en_us/productpage.1283102002.html",
+    "mid": "https://www.janieandjack.com/item/girls-wide-leg-corduroy-pant-200477804.html?lang=en_US"
+   }
+  },
+  {
+   "id": "T-OUT-005",
+   "file": "t_out_005.jpg",
+   "name": "Cream fleece toddler jacket",
+   "person": "toddlers",
+   "category": "outerwear",
+   "layout_role": "layer",
+   "hex": "#EDE4D3",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Cream fleece toddler jacket. A cream toddler full-zip fleece jacket with a soft, plush pile, a stand collar and long sleeves.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/boys-the-quilted-sherpa-jacket-102415001.html?lang=en_US"
+   }
+  },
+  {
+   "id": "T-TOP-009",
+   "file": "t_top_009.jpg",
+   "name": "Ecru cable toddler sweater",
+   "person": "toddlers",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#EDE4D3",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Ecru cable toddler sweater. A relaxed ecru crewneck sweater knit in soft combed cotton with cables down the front and ribbed neck, cuffs and hem.",
+   "shop_links": {
+    "mid": "https://www.hannaandersson.com/boys-clothing-hoodies-sweatshirts/82234-76X.html"
+   },
+   "toddler_for": "boy"
+  },
+  {
+   "id": "BB-DRS-020",
+   "file": "bb_drs_020.jpg",
+   "name": "Red velvet baby dress",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#8E1C27",
+   "pattern": false,
+   "colors": [
+    "deep red"
+   ],
+   "color_stories": [
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Red velvet baby dress. Deep maroon-berry velvet baby dress with short puff sleeves, a tulle-lined skirt and matching bloomers.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/baby-girl-the-holiday-velvet-baby-dress-104370001.html?lang=en_US"
+   }
+  },
+  {
+   "id": "BB-DRS-021",
+   "file": "bb_drs_021.jpg",
+   "name": "Ivory fair isle baby sweater dress",
+   "person": "babies",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#EDE4D3",
+   "pattern": true,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Ivory fair isle baby sweater dress. A cream baby sweater-knit dress with a fair isle band knitted in soft neutral tones and long sleeves.",
+   "shop_links": {
+    "mid": "https://www.janieandjack.com/item/baby-girl-baby-fair-isle-sweater-dress-200514567.html?lang=en_US"
+   },
+   "pattern_scale": "fair isle yoke",
+   "pattern_family": "ivory-fair-isle"
+  },
+  {
+   "id": "TG-DRS-006",
+   "file": "tg_drs_006.jpg",
+   "name": "Ivory knit midi dress",
+   "person": "teen girls",
+   "category": "dress",
+   "layout_role": "hero",
+   "hex": "#EDE4D3",
+   "pattern": false,
+   "colors": [
+    "ivory"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Ivory knit midi dress. A thick, stretchy ivory rib-knit sweater dress with a crossover surplice neckline, long dolman sleeves and a close-fitting skirt that runs to a long midi length.",
+   "shop_links": {
+    "mid": "https://www.lulus.com/products/bixby-ivory-ribbed-surplice-bodycon-sweater-midi-dress/2745891.html"
+   }
+  },
+  {
+   "id": "TG-TOP-008",
+   "file": "tg_top_008.jpg",
+   "name": "Cream fuzzy cardigan",
+   "person": "teen girls",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#F0E8DA",
+   "pattern": false,
+   "colors": [
+    "cream"
+   ],
+   "color_stories": [
+    "winter-white",
+    "holiday-plaid"
+   ],
+   "link_tier": "1 link",
+   "description": "Cream fuzzy cardigan. Cream fuzzy eyelash-knit cropped cardigan in a very stretchy knit with three marbled white buttons down the front.",
+   "shop_links": {
+    "mid": "https://www.lulus.com/products/winter-warmth-cream-eyelash-knit-fuzzy-cardigan-sweater/1593436.html"
+   }
+  },
+  {
+   "id": "TB-TOP-016",
+   "file": "tb_top_016.jpg",
+   "name": "Soft gray quarter-zip sweater",
+   "person": "teen boys",
+   "category": "top",
+   "layout_role": "hero",
+   "hex": "#B5B5B2",
+   "pattern": false,
+   "colors": [
+    "soft gray"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Soft gray quarter-zip sweater. A fine-gauge heather grey cashmere pullover with a zip-front stand collar and ribbed cuffs and hem.",
+   "shop_links": {
+    "mid": "https://www.quince.com/men/cashmere/cashmere-quarter-zip-sweater?color=heather-grey"
+   }
+  },
+  {
+   "id": "G-SHO-008",
+   "file": "g_sho_008.jpg",
+   "name": "Champagne Mary Janes",
+   "person": "girls",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#D9C4A3",
+   "pattern": false,
+   "colors": [
+    "champagne"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Champagne Mary Janes. A pair of round-toe Mary Janes in softly iridescent gold glazed leather with grosgrain piping around the collar and a single hook-and-loop strap.",
+   "shop_links": {
+    "splurge": "https://www.jacadi.us/shoes/girls/Mary-Janes-T-strap-shoes-ballet-flats/Girl-glazed-leather-Mary-Janes/p/2008708_862"
+   }
+  },
+  {
+   "id": "W-SHO-011",
+   "file": "w_sho_011.jpg",
+   "name": "Champagne ballet flats",
+   "person": "women",
+   "category": "shoes",
+   "layout_role": "shoes",
+   "hex": "#D9C4A3",
+   "pattern": false,
+   "colors": [
+    "champagne"
+   ],
+   "color_stories": [
+    "winter-white"
+   ],
+   "link_tier": "1 link",
+   "description": "Champagne ballet flats. A pair of classic rounded-toe ballet flats in soft gold metallic leather with a low-cut topline and thin flat sole.",
+   "shop_links": {
+    "splurge": "https://www.jcrew.com/p/womens/categories/shoes/ballets/andi-ballet-flats-in-metallic-leather/CH266"
    }
   }
  ]
