@@ -4,7 +4,7 @@ window.JWT = async (onlyFrame) => {
   const sleep = ms => new Promise(r=>setTimeout(r,ms));
   const scan = (h, t, finPath, p) => {
     const ins = (h.match(/schema\.org\/InStock|"availability"\s*:\s*"InStock"/g)||[]).length, oos = (h.match(/schema\.org\/(OutOfStock|SoldOut|Discontinued)|"availability"\s*:\s*"OutOfStock"/g)||[]).length;
-    const gone = /no longer available|this item is unavailable|item is no longer|page not found|product not found|sold out/i.test(h);
+    const gone = /page not found|product not found|we couldn.t find (that|the) page/i.test(h);
     return {t:(t||'').trim().slice(0,80), ins, oos, gone, red: finPath !== p.pathname ? finPath.slice(0,80) : '', len:h.length};
   };
   const frame = (u) => new Promise(res => {
@@ -39,3 +39,6 @@ window.JWT = async (onlyFrame) => {
   window.JWTOUT = out;
   return {host:location.host, total:out.length, ok:out.filter(ok).length, issues:out.filter(r=>!ok(r)).map(r=>({u:r.u.slice(-70), s:r.s, red:r.red, t:r.t, ins:r.ins, oos:r.oos, gone:r.gone, btn:r.btn, sold:r.soldtxt, f:r.frame, err:r.err, len:r.len}))};
 };
+
+window.SUM = () => { const out=window.JWTOUT||[]; const ok = r => r.shop ? (r.s===200 && r.av) : (r.frame ? (!r.red && !r.soldtxt && r.btn) : (r.s===200 && !r.red && !r.gone && r.ins>0)); return {host:location.host,total:out.length, ok:out.filter(ok).length, issues:out.filter(r=>!ok(r)).map(r=>[r.u.replace(/^https?:\/\/[^\/]+/,'').slice(-55), r.s||'', r.f?'F':'', r.red?'RED:'+r.red.slice(0,40):'', (r.t||'').slice(0,35), 'in'+r.ins+'/oos'+r.oos, r.gone?'GONE':'', r.btn?'BTN':'', r.soldtxt?'SOLD':'', r.err||'', r.len?('len'+r.len):''].filter(Boolean).join(' | '))}; };
+window.JWTGO = () => { window.JWTOUT=null; JWT().then(()=>{}); return 'started '+location.host; };
