@@ -33,8 +33,8 @@ window.JWT = async (onlyFrame) => {
       return await frame(u);
     } catch(e) { return {u, err:String(e).slice(0,80)}; }
   };
-  const out=[]; const n = onlyFrame ? 1 : 4;
-  for (let i=0;i<urls.length;i+=n) out.push(...await Promise.all(urls.slice(i,i+n).map(one)));
+  const out=[]; const n = onlyFrame ? 1 : 2;
+  for (let i=0;i<urls.length;i+=n) { out.push(...await Promise.all(urls.slice(i,i+n).map(one))); await sleep(500); }
   const ok = r => r.shop ? (r.s===200 && r.av) : (r.frame ? (!r.red && !r.soldtxt && r.btn) : (r.s===200 && !r.red && !r.gone && r.ins>0));
   window.JWTOUT = out;
   return {host:location.host, total:out.length, ok:out.filter(ok).length, issues:out.filter(r=>!ok(r)).map(r=>({u:r.u.slice(-70), s:r.s, red:r.red, t:r.t, ins:r.ins, oos:r.oos, gone:r.gone, btn:r.btn, sold:r.soldtxt, f:r.frame, err:r.err, len:r.len}))};
